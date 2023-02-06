@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431318416341",
+    "project_id": "inditab-189eb",
+    "storage_bucket": "inditab-189eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431318416341:android:6d9dc271c0f0453ce71b5c",
+        "android_client_info": {
+          "package_name": "com.example.task_inditab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431318416341-57l6432jtdluhhv4oipqcvatrr6hp7uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_inditab",
+            "certificate_hash": "30c709bd12b2d895489df7a5b51dd431b7137247"
+          }
+        },
+        {
+          "client_id": "431318416341-shkuqn3vvkg5v9r990ghd2ok3i122l11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGq0Hzox4Fa4N2AXiFH5BMaVCeEQILN6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431318416341-3j0t1jd85t56thuhsegv2jd6q00rppo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

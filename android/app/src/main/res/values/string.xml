@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Inditab Task</string>
+    <string name="facebook_app_id">571257441562512</string>
+    <string name="fb_login_protocol_scheme">fb571257441562512</string>
+    <string name="facebook_client_token">3bbf2ee8ed7a0b55d39851ec33ece792</string>
+</resources>
